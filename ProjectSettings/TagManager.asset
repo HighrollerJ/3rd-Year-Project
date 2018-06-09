@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Door
+  - EL_Top-Floor
+  - EL_Middel-Floor
+  - EL_Bottom-Floor
+  - LB_Bed_Top
+  - LB_Bath_Top
+  - LB_Live_Top
+  - PB_Bed_Top
+  - PB_Bath_Top
+  - PB_Live_Top
+  - DBboard_FP
+  - Lever
+  - Cylinder
+  - Toggle
+  - Fix
+  - Button
+  - Breaker
+  - Storage_Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

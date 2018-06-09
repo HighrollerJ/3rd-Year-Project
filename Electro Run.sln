@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electro Run", "Electro Run.csproj", "{AE77D3F4-FD70-F1B2-289D-A6AC7090256B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE77D3F4-FD70-F1B2-289D-A6AC7090256B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE77D3F4-FD70-F1B2-289D-A6AC7090256B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE77D3F4-FD70-F1B2-289D-A6AC7090256B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE77D3F4-FD70-F1B2-289D-A6AC7090256B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

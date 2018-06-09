@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 0b192502bb20adf459ef003fdc09ed90
+timeCreated: 1526708353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Foot_L
+    100004: Foot_R
+    100006: Hand_L
+    100008: Hand_R
+    100010: Head
+    100012: Hip
+    100014: Index_1_L
+    100016: Index_1_R
+    100018: Index_2_L
+    100020: Index_2_R
+    100022: Index_3_L
+    100024: Index_3_R
+    100026: Lower_Arm_L
+    100028: Lower_Arm_R
+    100030: Lower_Leg_L
+    100032: Lower_Leg_R
+    100034: //RootNode
+    100036: Mid_1_L
+    100038: Mid_1_R
+    100040: Mid_2_L
+    100042: Mid_2_R
+    100044: Mid_3_L
+    100046: Mid_3_R
+    100048: Pinky_1_L
+    100050: Pinky_1_R
+    100052: Pinky_2_L
+    100054: Pinky_2_R
+    100056: Pinky_3_L
+    100058: Pinky_3_R
+    100060: Ring_1_L
+    100062: Ring_1_R
+    100064: Ring_2_L
+    100066: Ring_2_R
+    100068: Ring_3_L
+    100070: Ring_3_R
+    100072: Shoulder_L
+    100074: Shoulder_R
+    100076: Sphere_003
+    100078: Spine
+    100080: Tail_Four
+    100082: Tail_One
+    100084: Tail_Three
+    100086: Tail_Two
+    100088: Thumb_1_L
+    100090: Thumb_1_R
+    100092: Thumb_2_L
+    100094: Thumb_2_R
+    100096: Thumb_3_L
+    100098: Thumb_3_R
+    100100: Toes_L
+    100102: Toes_R
+    100104: Upper_Arm_L
+    100106: Upper_Arm_R
+    100108: Upper_Leg_L
+    100110: Upper_Leg_R
+    100112: Cylinder
+    100114: Sphere
+    100116: Sphere_001
+    100118: Sphere_000
+    400000: Armature
+    400002: Foot_L
+    400004: Foot_R
+    400006: Hand_L
+    400008: Hand_R
+    400010: Head
+    400012: Hip
+    400014: Index_1_L
+    400016: Index_1_R
+    400018: Index_2_L
+    400020: Index_2_R
+    400022: Index_3_L
+    400024: Index_3_R
+    400026: Lower_Arm_L
+    400028: Lower_Arm_R
+    400030: Lower_Leg_L
+    400032: Lower_Leg_R
+    400034: //RootNode
+    400036: Mid_1_L
+    400038: Mid_1_R
+    400040: Mid_2_L
+    400042: Mid_2_R
+    400044: Mid_3_L
+    400046: Mid_3_R
+    400048: Pinky_1_L
+    400050: Pinky_1_R
+    400052: Pinky_2_L
+    400054: Pinky_2_R
+    400056: Pinky_3_L
+    400058: Pinky_3_R
+    400060: Ring_1_L
+    400062: Ring_1_R
+    400064: Ring_2_L
+    400066: Ring_2_R
+    400068: Ring_3_L
+    400070: Ring_3_R
+    400072: Shoulder_L
+    400074: Shoulder_R
+    400076: Sphere_003
+    400078: Spine
+    400080: Tail_Four
+    400082: Tail_One
+    400084: Tail_Three
+    400086: Tail_Two
+    400088: Thumb_1_L
+    400090: Thumb_1_R
+    400092: Thumb_2_L
+    400094: Thumb_2_R
+    400096: Thumb_3_L
+    400098: Thumb_3_R
+    400100: Toes_L
+    400102: Toes_R
+    400104: Upper_Arm_L
+    400106: Upper_Arm_R
+    400108: Upper_Leg_L
+    400110: Upper_Leg_R
+    400112: Cylinder
+    400114: Sphere
+    400116: Sphere_001
+    400118: Sphere_000
+    2100000: Skin
+    2100002: Skin_Extra
+    2100004: Skin_Extra__
+    2100006: Teeth
+    2100008: Eye_White
+    2100010: Pupil
+    2100012: Eye_Colour
+    2100014: Nose
+    2100016: unnamed
+    2100018: Lens
+    2100020: Safety_Hat
+    2100022: Inside
+    2300000: Cylinder
+    2300002: Sphere
+    2300004: Sphere_001
+    2300006: Sphere_000
+    3300000: Cylinder
+    3300002: Sphere
+    3300004: Sphere_001
+    3300006: Sphere_000
+    4300000: Sphere_003
+    4300002: Cylinder
+    4300004: Sphere_001
+    4300006: Sphere
+    4300008: Sphere_000
+    7400000: Default Take
+    7400002: Idle
+    7400004: Idle_Flashlight
+    7400006: Open_Fridge
+    7400008: Run
+    7400010: Walk
+    7400012: Walk_Flashlight
+    9500000: //RootNode
+    13700000: Sphere_003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

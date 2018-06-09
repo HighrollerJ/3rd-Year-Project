@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 238c73180e3fdaa41b8868a39b16de4d
+timeCreated: 1528184062
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - defaultTexture: {fileID: 2800000, guid: f187b5429751e4442b058076a3bfd386, type: 3}
+  - door: {fileID: 2800000, guid: 4325754c801cf6e45bfc5e9bac60b4c5, type: 3}
+  - toggle: {fileID: 2800000, guid: cbb64c5805056fb4ebf6d6a435e562fb, type: 3}
+  - fix: {fileID: 2800000, guid: e50c93e8ff350fe42bd3a79c62e67867, type: 3}
+  - button: {fileID: 2800000, guid: 2bff488e6fc92d3499e0f5b11f69110a, type: 3}
+  - breaker: {fileID: 2800000, guid: 56284d5e0edee9447915fab88bf9a026, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

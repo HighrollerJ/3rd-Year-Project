@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 0a8c184056eb89547baa771fb799d6d5
+timeCreated: 1526566661
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Plane_010
+    100006: Plane_002
+    100008: Plane_000
+    100010: Plane_001
+    100012: Plane_003
+    400000: //RootNode
+    400002: Cube
+    400004: Plane_010
+    400006: Plane_002
+    400008: Plane_000
+    400010: Plane_001
+    400012: Plane_003
+    2100000: Window
+    2100002: Wall_Colour
+    2100004: Pillars
+    2100006: Window_Frame
+    2100008: Garage_Roof_Panel_001
+    2100010: Indoor_Wall
+    2100012: Garage_Roof_Panel
+    2100014: Garage_Door
+    2100016: Floor
+    2100018: Ceiling
+    2100020: Carpet__Carpet_jpg_001
+    2100022: Carpet
+    2100024: Pillars__Pillars_jpg
+    2100026: Paving
+    2100028: Closet__Closet_Wood_jpg
+    2100030: Closet__Closet_Wood_jpg_002
+    2100032: Structure
+    2100034: Holders
+    2100036: Blades__Closet_Wood_jpg_002
+    2100038: Supports
+    2100040: Pillow
+    2100042: Overlay__2-blue-silk_jpg_001
+    2100044: Sheet__625059056_jpg
+    2100046: Bed
+    2100048: Glass
+    2100050: Support
+    2100052: Outside__Lamp_jpg
+    2100054: Metal
+    2100056: Basement_Floor
+    2100058: Basement_Wall
+    2100060: Basement_Wall__Basement_Brick_jpg
+    2100062: Brackets
+    2100064: Vent
+    2100066: unnamed
+    2100068: Shelves__Shelving_Texture_jpg
+    2100070: DBboard
+    2100072: Garage_Door_005
+    2100074: Material_115
+    2100076: Screw_049
+    2100078: Door_Frame_077
+    2100080: Door_Frame_165
+    2100082: Material_255
+    2100084: Closet
+    2100086: Chute_Button
+    2100088: Elevator
+    2100090: Outside__Bed_Side_Lamp_jpg
+    2100092: Elevator__Overlay_jpg
+    2100094: Sheet__Sheet_jpg
+    2100096: Elevator__Small_Pillows_jpg
+    2100098: Elevator__Earth_Label_new_1_jpg
+    2100100: Elevator__Light_Labels_jpg
+    2100102: Elevator__Plug_label_jpg
+    2100104: Wall_Plug
+    2100106: Neutral
+    2100108: Live
+    2100110: Earth
+    2100112: Links
+    2300000: //RootNode
+    2300002: Cube
+    2300004: Plane_010
+    2300006: Plane_002
+    2300008: Plane_000
+    2300010: Plane_001
+    2300012: Plane_003
+    3300000: //RootNode
+    3300002: Cube
+    3300004: Plane_010
+    3300006: Plane_002
+    3300008: Plane_000
+    3300010: Plane_001
+    3300012: Plane_003
+    4300000: Plane_010
+    4300002: Cube
+    4300004: Plane_002
+    4300006: Plane_003
+    4300008: Plane_000
+    4300010: Plane_001
+    6400000: //RootNode
+    6400002: Cube
+    6400004: Plane_010
+    6400006: Plane_002
+    6400008: Plane_000
+    6400010: Plane_001
+    6400012: Plane_003
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
